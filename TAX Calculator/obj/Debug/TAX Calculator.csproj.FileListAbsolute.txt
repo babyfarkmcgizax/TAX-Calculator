@@ -1,0 +1,11 @@
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\bin\Debug\TAX Calculator.exe.config
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\bin\Debug\TAX Calculator.exe
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\bin\Debug\TAX Calculator.pdb
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX Calculator.csprojAssemblyReference.cache
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX_Calculator.Form1.resources
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX_Calculator.Properties.Resources.resources
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX Calculator.csproj.GenerateResource.cache
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX Calculator.csproj.CoreCompileInputs.cache
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX Calculator.exe
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX Calculator.pdb
+C:\Users\frogg\source\repos\TAX Calculator\TAX Calculator\obj\Debug\TAX_Calculator.settings.resources
